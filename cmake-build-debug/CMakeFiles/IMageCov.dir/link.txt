@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/IMageCov.dir/main.cpp.o  -o IMageCov -Wl,-rpath,/home/lut/Desktop/C++/IMageCov/cmake-build-debug libtools.so 

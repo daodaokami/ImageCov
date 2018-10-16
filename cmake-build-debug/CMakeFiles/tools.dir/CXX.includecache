@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lut/Desktop/C++/IMageCov/include/image.h
+
+/home/lut/Desktop/C++/IMageCov/include/tools.cpp
+iostream
+-
+image.h
+/home/lut/Desktop/C++/IMageCov/include/image.h
+tools.h
+/home/lut/Desktop/C++/IMageCov/include/tools.h
+
+/home/lut/Desktop/C++/IMageCov/include/tools.h
+image.h
+/home/lut/Desktop/C++/IMageCov/include/image.h
+
